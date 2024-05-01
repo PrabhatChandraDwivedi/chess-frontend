@@ -1,0 +1,7 @@
+Frontend 
+    What all is required
+        --Landing Page(Create Room, Join Room{provide a text box to enter the roomid})--------------Matchmaking is on hold as of now.
+        -- Waiting Room page
+        -- Game page(tiles 8*8, sprites for the pieces)
+        Today's target is to create 8*8 tiles black and white.
+        
