@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-
 export default function Tile() {
   const [gridIndices, setGridIndices] = useState(Array.from({ length: 64 }, (_, index) => index));
 
